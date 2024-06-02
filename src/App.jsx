@@ -8,6 +8,7 @@ import Proyects from './components/Proyects'
 import Contact from './components/Contact'
 import Banner from './components/Banner'
 import About from './components/About'
+import Skill from './components/Skill'
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
       <Banner />
       <About />
       <Proyects />
+      <Skill />
       <Contact />
       <Footer />
     </div>
