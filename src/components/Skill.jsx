@@ -25,7 +25,7 @@ const Skill = () => {
     {
         title: 'Java',
         image: './img/java.png',
-        url: 'https://www.java.com/en/'
+        url: 'https://www.java.com/es/'
     },
     {
         title: 'Kotlin',
@@ -50,7 +50,7 @@ const Skill = () => {
     {
         title: 'GitHub',
         image: './img/github.png',
-        url: ' https: //github.com/'
+        url: 'https://github.com/'
     },
     {
         title: 'C',
