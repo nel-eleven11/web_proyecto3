@@ -1,11 +1,30 @@
-# web_proyecto3
-Proyecto 3 de Sistemas web Portafolio personal
+# Portafolio Web de Nelson
 
-# React + Vite
+## Tecnologías Utilizadas
+-React: Librería de JavaScript para construir interfaces de usuario.
+-Vite: Herramienta de construcción rápida para proyectos frontend.
+-JavaScript: Lenguaje de programación utilizado para la lógica del sitio.
+-HTML5 Audio API: Para la reproducción de audio en el navegador.
+-EmailJS: Servicio para enviar correos electrónicos desde el formulario de contacto.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Funcionalidades Principales
+-Navegación a trabajos varios
+-Navegación con Reproducción de Audio
+-Formulario de Contacto
 
-Currently, two official plugins are available:
+## Cómo Ejecutar el Proyecto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-Clona este repositorio:
+git clone https://github.com/tu-usuario/tu-repositorio.git
+
+-Navega al directorio del proyecto:
+cd tu-repositorio
+
+-Instala las dependencias:
+npm install
+
+-Inicia el servidor de desarrollo:
+npm run dev
+
+-Inicia el servidor de desarrollo:
+Abre tu navegador en http://localhost: que te de el comando anterior
