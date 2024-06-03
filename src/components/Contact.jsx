@@ -2,19 +2,19 @@ import React, { useRef }from 'react'
 import emailjs from '@emailjs/browser'
 
 const Contact = () => {
-    const form = useRef();
+    const form = useRef()
 
     const sendEmail = (e) => {
-        e.preventDefault();
+        e.preventDefault()
         emailjs.sendForm('service_pqt4tgu', 'template_az9po7d', form.current, 'DRY9LL76Kz6s-cAPV')
         .then((result) => {
-            console.log('SUCCESS!', result.text);
-            form.current.from_name.value = '';
-            form.current.from_email.value = '';
-            form.current.message.value = '';
-            alert('Your message has been sent successfully');
+            console.log('SUCCESS!', result.text)
+            form.current.from_name.value = ''
+            form.current.from_email.value = ''
+            form.current.message.value = ''
+            alert('Your message has been sent successfully')
             }, (error) => {
-                console.log('FAILED...', error.text);
+                console.log('FAILED...', error.text)
         });
     }
 

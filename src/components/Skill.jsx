@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 const Skill = () => {
   const skills = [
@@ -105,4 +105,4 @@ const Skill = () => {
   );
 }
 
-export default Skill;
+export default Skill

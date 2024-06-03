@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 const Projects = () => {
   const projects = [
@@ -37,7 +37,7 @@ const Projects = () => {
       image: './img/Neo4j.png',
       url: 'https://github.com/nel-eleven11/Estructuras_de_Datos/tree/main/Proyecto%202'
     }
-  ];
+  ]
 
   return (
     <section id='projects' className='projects container'>
@@ -58,7 +58,7 @@ const Projects = () => {
         })}
       </div>
     </section>
-  );
+  )
 }
 
-export default Projects;
+export default Projects
