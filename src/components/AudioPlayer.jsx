@@ -6,12 +6,13 @@ const AudioPlayer = forwardRef((props, ref) => {
   useImperativeHandle(ref, () => ({
     playAudio: () => {
       if (audioRef.current) {
-        audioRef.current.play()
+        audioRef.current.play().catch(error => console.error('Error playing audio:', error))
       }
     },
     setAudioSrc: (src) => {
       if (audioRef.current) {
-        audioRef.current.src = src;
+        audioRef.current.src = src
+        audioRef.current.load()
       }
     }
   }))
