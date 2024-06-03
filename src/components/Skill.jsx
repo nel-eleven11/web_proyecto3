@@ -29,7 +29,7 @@ const Skill = () => {
     },
     {
         title: 'Kotlin',
-        image: './img/kotlin.png',
+        image: './img/kotlin.jpg',
         url: 'https://kotlinlang.org/'
     },
     {
