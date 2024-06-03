@@ -19,7 +19,7 @@ const About = () => {
                     </p>
 
                     <p class="text-justify">
-                        I like listening to music, playing video games, and watching movies. I am also a fan of fooball, specially for
+                        I like listening to music, play the guitar, playing video games, and watching movies. I am also a fan of fooball, specially for
                         Real Madrid and Bayern Münich, I practice football and volleyball in my free time. Reading books is also one of 
                         my things, recently I have been reading a series called Shadowhunters, which I highly recommend. In terms of music,
                         my favorites genres are rock, alternativ rock and smooth jazz, some of my favorites bands are: Imagine Dragons, 
