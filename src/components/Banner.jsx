@@ -9,9 +9,9 @@ const Banner = () => {
                 <div class='row p-5' >
                 <div class='col-xl-8 col-lg-8'>
                     <div class='textblock'>
-                    <h3>Hello</h3>
+                    <h3>Hello from</h3>
                     <h1>Nelson García</h1>
-                    <h3>And I'm a <span>Computer cience and IT Engineer Student in UVG</span></h3>
+                    <h3>And I'm a <span>Computer cience and IT Engineer Student</span></h3>
                     <p>View my GitHub</p>
                     <div class="social-media">
                         <a href="https://github.com/nel-eleven11" target="_blank" rel="noreferrer"><box-icon name='github' type='logo' ></box-icon></a>
@@ -20,7 +20,7 @@ const Banner = () => {
                     </div>
                 </div>
                     <div class='col-xl-4 col-lg-4'>
-                        <img src="./bannar.png" alt="" class='home-img' />
+                        <img src="./img/discgif.gif" alt="" class='home-img' />
                     </div>
                 </div>
             </div>
