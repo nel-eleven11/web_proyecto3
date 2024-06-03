@@ -1,5 +1,9 @@
 # Portafolio Web de Nelson
 
+## Ver el proyecto:
+
+Link: https://portafolionelson22434.netlify.app
+
 ## Tecnologías Utilizadas
 -React: Librería de JavaScript para construir interfaces de usuario.
 -Vite: Herramienta de construcción rápida para proyectos frontend.
