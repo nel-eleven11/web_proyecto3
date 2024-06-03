@@ -15,7 +15,7 @@
 ## Cómo Ejecutar el Proyecto
 
 -Clona este repositorio:
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/nel-eleven11/web_proyecto3
 
 -Navega al directorio del proyecto:
 cd tu-repositorio
