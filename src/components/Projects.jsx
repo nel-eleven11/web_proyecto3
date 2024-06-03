@@ -4,7 +4,7 @@ const Projects = () => {
   const projects = [
     {
       title: 'Que no te Salga Caro',
-      type: { title: 'Android APP' },
+      type: { title: 'Android Studio & Kotlin' },
       content: 'Final proyecto for the Mobile Platfoems course.',
       image: './img/androidLogo.png',
       url: 'https://github.com/Its-Japo/QueNoTeSalgaCaro'
@@ -37,8 +37,6 @@ const Projects = () => {
       image: './img/Neo4j.png',
       url: 'https://github.com/nel-eleven11/Estructuras_de_Datos/tree/main/Proyecto%202'
     }
-
-    
   ];
 
   return (

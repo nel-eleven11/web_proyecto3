@@ -10,8 +10,8 @@ const Banner = () => {
                 <div class='col-xl-8 col-lg-8'>
                     <div class='textblock'>
                     <h3>Hello from</h3>
-                    <h1>Nelson García</h1>
-                    <h3>And I'm a <span>Computer cience and IT Engineer Student</span></h3>
+                    <h1>Nelson García:</h1>
+                    <h3><span>Computer cience and IT Engineer Student</span></h3>
                     <p>View my GitHub</p>
                     <div class="social-media">
                         <a href="https://github.com/nel-eleven11" target="_blank" rel="noreferrer"><box-icon name='github' type='logo' ></box-icon></a>
