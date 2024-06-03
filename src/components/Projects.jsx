@@ -1,6 +1,6 @@
-import React from "react"
+import React from 'react'
 
-const Proyects = () => {
+const Projects = () => {
     return (
         <section id='projects' class='projects container'>
           <h2 class="text-center">My Projects</h2>
@@ -12,4 +12,4 @@ const Proyects = () => {
       )
 }
 
-export default Proyects
+export default Projects
